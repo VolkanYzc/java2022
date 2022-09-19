@@ -10,6 +10,17 @@ public class loopDemo {
 
 		}
 		System.out.println("Döngü Bitti");
-	}
 
+		int i = 1;
+		while (i <= 10) {
+
+			System.out.println(i);
+			i += 2;
+
+		}
+
+		System.out.println("While Döngüsü Bitti");
+
+	}
 }
+
